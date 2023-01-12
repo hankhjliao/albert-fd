@@ -20,12 +20,12 @@
 
 1. Install [fd](https://github.com/sharkdp/fd)
 
-2. Clone this repository to `~/.local/share/albert/org.albert.extension.python/modules`:
+2. Clone this repository to `~/.local/share/albert/python/plugins`:
    ```
-   git clone https://github.com/hankliao87/albert-fd.git $HOME/.local/share/albert/org.albert.extension.python/modules/fd
+   git clone https://github.com/hankliao87/albert-fd.git $HOME/.local/share/albert/python/plugins/fd
    ```
 
-3. Enable `Find file with fd` plugin in `albert settings - Extensions - Python`
+3. Enable `Find file with fd` plugin in `albert settings - Plugins - Python`
 
 ## Usage
 
